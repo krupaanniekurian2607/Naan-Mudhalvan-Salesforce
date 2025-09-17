@@ -1,8 +1,8 @@
 NAAN MUDHALVAN SALESFORCE PROJECT - SMART INTERNZ TOPIC: CRM Application for Jewel Management-(Developer)
 
-College Name: Sri Krishna Adithya College of Arts and Science College 
+College Name: Sri Krishna Adithya College of Arts and Science 
 
-Code: Bruag 
+College Code: Bruag 
 
 TEAM ID: NM2025TMID22803
 
