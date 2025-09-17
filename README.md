@@ -1,5 +1,5 @@
-College Name: Sri Krishna Adithya College of Arts and Science College 
-Code: Bruag
+College Name: Sri Krishna Adithya College of Arts and Science College /n
+Code: Bruag /n
 TEAM ID: NM2025TMID22803
 TEAM MEMBERS: 4
 Team Leader Name: Krupa Annie Kurian       Email: 23bsds126krupaanniekurian@skacas.ac.in
